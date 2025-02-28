@@ -47,7 +47,6 @@ The project demonstrated the effectiveness of **BERT embeddings** for question s
 
 ## 👥 Team  
 - **Mega Viswanathan**  
-- [Your Teammate’s Name]  
 
 ---  
 
